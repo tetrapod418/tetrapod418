@@ -1,5 +1,3 @@
-@tetrapod418
-![jnkykn](./images/jnkykn.jpg)
 ## 🔭 I’m currently working on
 - Cybozu
 
