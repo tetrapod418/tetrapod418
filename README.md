@@ -1,26 +1,14 @@
-## Hi there 👋
-
-<!--
-**tetrapod418/tetrapod418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 @tetrapod418
 ![jnkykn](./images/jnkykn.jpg)
 ## 🔭 I’m currently working on
 - Cybozu
+
+
 ## 📫 How to reach me:
 - X: [@jnkykn](https://x.com/jnkykn)
 - BlueSky: [@jnkykn](https://bsky.app/profile/jnkykn.bsky.social)
+
+
 ## blog
 - note: [_tetrapod](https://note.com/_tetrapod)
 
