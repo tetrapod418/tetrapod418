@@ -1,11 +1,6 @@
-## 🔭 I’m currently working on
-- Cybozu
-
-
 ## 📫 How to reach me:
 - X: [@jnkykn](https://x.com/jnkykn)
 - BlueSky: [@jnkykn](https://bsky.app/profile/jnkykn.bsky.social)
-
 
 ## blog
 - note: [_tetrapod](https://note.com/_tetrapod)
